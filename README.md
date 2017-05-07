@@ -8,7 +8,7 @@ Simple todo app created to learn the basics of MobX
 * Clear out all completed todos
 
 ## To use:
-$ npm install or $ yarn to install dependencies
-$ npm start or $ yarn start to run
-go to localhost:8080 to see it in action
+1. $ npm install or $ yarn to install dependencies
+2. $ npm start or $ yarn start to run
+3. Go to localhost:8080 to see it in action
 
